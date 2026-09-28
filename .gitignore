@@ -1,1 +1,7 @@
-includes/db.php
+node_modules/
+dist/
+.wrangler/
+.dev.vars*
+*.tsbuildinfo
+# Données exportées de l'ancienne base (contiennent le hash du mot de passe)
+data/
