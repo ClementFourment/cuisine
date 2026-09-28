@@ -12,9 +12,10 @@
     {
       "binding": "DB",
       "database_name": "cuisine",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "fc47b9bc-2408-432a-a87e-64bcb8a7270e",
       "migrations_dir": "migrations"
     }
   ],
+  "routes": [{ "pattern": "cuisine.clementfourment.fr", "custom_domain": true }],
   "observability": { "enabled": true }
 }
